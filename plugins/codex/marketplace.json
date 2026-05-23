@@ -1,8 +1,6 @@
 {
-  "id": "my-codex-market",
-  "name": "我的Codex插件市场",
+  "id": "my-market",
   "version": "1.0.0",
-  "description": "自定义GitHub插件市场",
-  "maintainer": "yourname",
+  "name": "My Plugin Market",
   "plugins": ["./demo-plugin"]
 }
