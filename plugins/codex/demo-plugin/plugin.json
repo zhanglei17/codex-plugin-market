@@ -1,6 +1,0 @@
-{
-  "name": "demo-plugin",
-  "version": "1.0.0",
-  "displayName": "Test Plugin",
-  "main": "index.js"
-}
