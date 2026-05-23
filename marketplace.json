@@ -1,0 +1,9 @@
+{
+  "id": "official-market",
+  "version": "1.0.0",
+  "name": "Codex Market",
+  "description": "Plugin Market",
+  "maintainer": "user",
+  "format": "codex-market",
+  "plugins": []
+}
