@@ -1,7 +1,6 @@
 {
   "name": "demo-plugin",
   "version": "1.0.0",
-  "displayName": "示例插件",
-  "description": "Codex测试插件",
+  "displayName": "Test Plugin",
   "main": "index.js"
 }
